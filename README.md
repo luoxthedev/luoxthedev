@@ -4,4 +4,4 @@
 - 📫 How to reach me : on Discord : lu0x.dev
 
 - My Discord :
-https://dsc.gg/luox
+[Click Here](https://dsc.gg/luox)
