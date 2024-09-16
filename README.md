@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @luoxthedev
-- 👀 I’m interested in code (I code Discord bots)
-- 🌱 I’m currently learning Node.JS
-- 📫 How to reach me : on Discord : lu0x.dev
+# Luoxthedev - Développeur Web, JavaScript et Python
 
-- My Discord :
-[Click Here](https://dsc.gg/luox)
+Je suis un développeur passionné par la création d'applications web.
+
+### Compétences
+* **Langages:** JavaScript, Python, HTML
+* **Frameworks:** React, Node.js
+
+### Mes projets
+* **SOON**
+
+### Intérêts
+En dehors du code, je suis passionné de musique
