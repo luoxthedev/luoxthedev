@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luox</h1>
-<h3 align="center">A passionate frontend developer from France 🇫🇷</h3>
+<h3 align="center">A passionate developer from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on **My Project Hub**
+- 🔭 I’m currently working on **My New Project Hub**
 
-- 👨‍💻 All of my projects are available at [[SOON]]([SOON])
+- 👨‍💻 All of my projects are available at [SOON]
 
-- 📫 How to reach me **On my bio site**
+- 📫 How to reach me **on** [**my bio site**](https://luox.nexcord.pro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/luox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luox" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Luox_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luox" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
