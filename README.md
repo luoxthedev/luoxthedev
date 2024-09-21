@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luoxthedev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luoxthedev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🤩 My Favorites GitHub Projects
+[![Luox Status](https://github-readme-stats.vercel.app/api/pin/?username=luoxthedev&repo=status)](https://github.com/luoxthedev/status)
+[![Luox Project Hub](https://github-readme-stats.vercel.app/api/pin/?username=luoxthedev&repo=luoxthedev.github.io)](https://github.com/luoxthedev/luoxthedev.github.io)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luoxthedev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
