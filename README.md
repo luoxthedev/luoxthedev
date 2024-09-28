@@ -26,4 +26,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=luoxthedev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in/api?id=luoxthedev&label=Profile%20Views%20Total&color=1&icon=0&pretty=true)
+![](https://komarev.com/ghpvc/?username=luoxthedev&style=for-the-badge)
