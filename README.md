@@ -24,7 +24,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=luoxthedev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ## 🔝 Bests FREE hosting in France
-https://discord.gg/freehost
+[TechnoHost](https://discord.gg/freehost)
+
 [SilverHost Link 1](https://dsc.gg/the-freehost) **or** [SilverHost Link 2](https://dsc.gg/silverhost)
 
 ---
