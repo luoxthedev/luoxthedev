@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Actuellement en train de travailler sur...
 
-- [RepoSwipe](https://github.com/luoxthedev/reposwipe) : Découvrez des projets GitHub de manière fun et interactive ! Swipez à gauche pour passer, à droite pour aimer, et vers le haut pour un super like !
+- RepoSwipe : Découvrez des projets GitHub de manière fun et interactive ! Swipez à gauche pour passer, à droite pour aimer, et vers le haut pour un super like !
 
 
 ## 🔥 Mes Compétences
