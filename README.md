@@ -5,6 +5,7 @@
 ## 👨‍💻 Actuellement en train de travailler sur...
 
 - RepoSwipe : Découvrez des projets GitHub de manière fun et interactive ! Swipez à gauche pour passer, à droite pour aimer, et vers le haut pour un super like !
+- PasteLuxe : __**SOON**__
 
 
 ## 🔥 Mes Compétences
@@ -30,3 +31,7 @@
 
 ## 🔝 Mes Meilleures Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=luoxthedev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+## 📬 Contact
+- Portofolio [luox.me](https://luox.me)
+- Discord [@lu.ox](https://discord.com/users/652920553866526780)
