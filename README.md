@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C61PX166)
+
 ## 💫 À Propos de Moi:
 👋 Bonjour, je suis Luox, un développeur Français 🇫🇷 spécialisé en **JavaScript & Python**
 
