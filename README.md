@@ -25,13 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luoxthedev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 🏆 Trophées GitHub
-![](https://github-profile-trophy.vercel.app/?username=luoxthedev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-## 🔝 Mes Meilleures Contributions
-![](https://github-contributor-stats.vercel.app/api?username=luoxthedev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ## 📬 Contact
 - Portofolio [luox.me](https://luox.me)
 - Discord [@lu.ox](https://discord.com/users/652920553866526780)
