@@ -4,9 +4,12 @@
 
 ## 👨‍💻 Actuellement en train de travailler sur...
 
-- [Sublify.cc](https://sublify.cc) : Le meilleur outil gratuit pour les developpeurs ; creez votre premier sous-domaine gratuitement en moins de 5 minutes, et connectez le à votre projet ! Votre site est maintenant disponible sur [nom].luox.dev !
+- **[Netheria SMP](https://netheria.luox.dev)** : SMP Minecraft Français et Chill.      
+Versions supportées : **1.13+**  -  IP : play.luox.dev
 
-- Developer @ [NullSecurity](https://github.com/NullSecurity-org)
+- **[Sublify.cc](https://sublify.cc)** : Le meilleur outil gratuit pour les developpeurs ; creez votre premier sous-domaine gratuitement en moins de 5 minutes, et connectez le à votre projet ! Votre site est maintenant disponible sur [nom].luox.dev !
+
+- Developer @ **[NullSecurity](https://github.com/NullSecurity-org)**
 
 
 ## 🔥 Mes Compétences
