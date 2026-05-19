@@ -1,11 +1,12 @@
 ## 💫 À Propos de Moi:
-👋 Bonjour, je suis Luox, un développeur Français 🇫🇷 spécialisé en **JavaScript & Python**
+👋 Bonjour, je suis Luox, un développeur Français 🇫🇷 spécialisé en **JavaScript & Frontend**
 
 
 ## 👨‍💻 Actuellement en train de travailler sur...
 
-- RepoSwipe : Découvrez des projets GitHub de manière fun et interactive ! Swipez à gauche pour passer, à droite pour aimer, et vers le haut pour un super like !
-- PasteLuxe : __**SOON**__
+- [Sublify.cc](https://sublify.cc) : Le meilleur outil gratuit pour les developpeurs ; creez votre premier sous-domaine gratuitement en moins de 5 minutes, et connectez le à votre projet ! Votre site est maintenant disponible sur [nom].luox.dev !
+
+- Developer @ [NullSecurity](https://github.com/NullSecurity-org)
 
 
 ## 🔥 Mes Compétences
@@ -14,7 +15,7 @@
 
 ## 🌐 Réseaux Sociaux:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/luox_)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@luox.live)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@luoxsotuff)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ttvLuox)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Luox_)
 
@@ -26,5 +27,5 @@
 
 
 ## 📬 Contact
-- Portofolio [luox.me](https://luox.me)
-- Discord [@lu.ox](https://discord.com/users/652920553866526780)
+- Portofolio [luox.dev](https://luox.dev)
+- Discord [@wo4h](https://discord.com/users/652920553866526780)
